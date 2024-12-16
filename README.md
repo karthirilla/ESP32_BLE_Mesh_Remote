@@ -8,7 +8,7 @@ The design is optimized for low-power operation, making it ideal for battery-pow
 
 ![Front View](https://github.com/karthirilla/ESP32_BLE_Mesh_Remote/blob/main/ESP32_HOME_AUTOMATION_BLE_MESH_REMOTE_FRONT.png)
 ![Back View](https://github.com/karthirilla/ESP32_BLE_Mesh_Remote/blob/main/ESP32_HOME_AUTOMATION_BLE_MESH_REMOTE_BACK.png)
-![Front View](https://github.com/karthirilla/ESP32_BLE_Mesh_Remote/blob/main/ESP32_HOME_AUTOMATION_BLE_MESH_REMOTE_FRONT_1.png)
+![Front View](https://github.com/karthirilla/ESP32_BLE_Mesh_Remote/blob/main/ESP32_HOME_AUTOMATION_BLE_MESH_REMOTE_FRONT_1.jpg)
 
 ### Key Features
 
