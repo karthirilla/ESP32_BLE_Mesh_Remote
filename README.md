@@ -6,6 +6,9 @@ The **ESP32-C3 BLE Mesh Remote** is a highly compact and low-power remote contro
 
 The design is optimized for low-power operation, making it ideal for battery-powered remote control applications. It’s capable of communicating with other devices in a BLE Mesh network, making it perfect for IoT and home automation solutions.
 
+![Front View](https://github.com/karthirilla/ESP32_BLE_Mesh_Remote/blob/main/ESP32_HOME_AUTOMATION_BLE_MESH_REMOTE_FRONT.png)
+![Back View](https://github.com/karthirilla/ESP32_BLE_Mesh_Remote/blob/main/ESP32_HOME_AUTOMATION_BLE_MESH_REMOTE_BACK.png)
+
 ### Key Features
 
 - **Low Power Consumption**: The device only runs when a button is pressed, using minimal energy to extend battery life.
